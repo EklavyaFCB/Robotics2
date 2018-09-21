@@ -1,0 +1,15 @@
+/* Jason Project */
+
+MAS rescueMission {
+
+    infrastructure: Centralised
+
+    environment: Map
+
+    agents:
+        scout;
+
+        doctor;
+
+}
+
